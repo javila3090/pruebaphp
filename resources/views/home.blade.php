@@ -8,7 +8,7 @@
     </ol>
     <form id="registro" role="form">
         <div class="jumbotron myBox"> 
-            <div class="container"> <img class="img-responsive" src="../assets/img/webDev.jpg"/></div>
+            <h3>BIENVENIDO</h3>
         </div>
     </form>
 </div>
